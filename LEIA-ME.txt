@@ -1,0 +1,31 @@
+SIMULADO — ASPECTOS LEGAIS DA TECNOLOGIA DA INFORMAÇÃO
+
+COMO ABRIR
+Dê dois cliques em simulado.html ou abra-o no Chrome, Edge ou Firefox.
+O HTML é autônomo: não precisa de internet, instalação ou servidor.
+O arquivo questoes.json é uma cópia editável do banco de questões; o HTML já contém esses dados e não depende desse arquivo.
+
+CONTEÚDO
+28 questões únicas: 24 objetivas e 4 discursivas.
+12 repetições removidas após comparar enunciados e todas as alternativas na mesma ordem, ignorando diferenças de formatação, espaços e pontuação.
+As páginas de todas as ocorrências foram reunidas na questão mantida.
+Os gabaritos foram preservados, incluindo D (18–19), C (23), C (33–34) e A (34–35), conforme as imagens enviadas pelo usuário.
+Todas as 24 objetivas têm gabarito e pontuação.
+As alternativas A–E permanecem na ordem da prova. Alguns enunciados foram resumidos e a formatação foi normalizada.
+As explicações objetivas são comentários de estudo baseados no gabarito; não são comentários literais do professor.
+Nas discursivas, a origem da referência é indicada na tela. A questão de separação dos poderes tem sugestão de estudo, pois o PDF não contém resposta ou comentário e o texto do AVA não foi disponibilizado.
+
+FUNCIONAMENTO
+Selecione uma alternativa e confirme para receber correção imediata.
+Nas discursivas, escreva, compare com a referência e faça sua autoavaliação.
+O resultado percentual considera apenas objetivas respondidas com gabarito confirmado, todas com o mesmo peso. Não reproduz os pesos das provas originais.
+Use Pular questão para avançar sem responder, nas objetivas e discursivas. A questão pulada não conta como erro nem entra na porcentagem.
+No resultado, Continuar respondendo retoma a primeira questão pendente. Rascunhos discursivos pulados são preservados durante a tentativa.
+O resultado parcial informa quantas questões ainda faltam.
+Use a revisão para consultar erros e discursivas com autoavaliação parcial ou insuficiente, ou praticar esses itens novamente.
+O botão Refazer simulado inicia outra tentativa no modo selecionado.
+Ao trocar de modo, refazer ou recarregar a página, as respostas são reiniciadas. O progresso não é salvo após fechar a página.
+
+BASE
+Prova Aspectos Legais 2026-1 (merged).pdf.
+O simulado respeita o gabarito da correção, inclusive nas formulações específicas ou ambíguas da disciplina.
